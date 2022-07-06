@@ -1,0 +1,23 @@
+{
+  "name": "nodejssample",
+  "version": "1.0.0",
+  "description": "sample nodejs web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyerohit/NodeJSSAmple.git"
+  },
+  "author": "iyerro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyerohit/NodeJSSAmple/issues"
+  },
+  "homepage": "https://github.com/iyerohit/NodeJSSAmple#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

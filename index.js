@@ -14,7 +14,7 @@ next();
 
 app.get("/",(req,res)=>{
     console.log("helllo world");
-    res.send("Hello");
+    res.send("Hello world from node js");
 
 });
 
